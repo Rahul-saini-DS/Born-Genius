@@ -1,6 +1,4 @@
-SpeechRecognition
-pyaudio
-pipwin
 streamlit
-opencv-python
-mediapipe
+mediapipe==0.10.9
+opencv-python-headless==4.5.5.64
+numpy
