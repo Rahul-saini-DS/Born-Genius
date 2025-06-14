@@ -1,0 +1,6 @@
+SpeechRecognition
+pyaudio
+pipwin
+streamlit
+opencv-python
+mediapipe
